@@ -1,1 +1,1 @@
-In this repository the code is given for the project in python and so it can be open in any python compiler. Use a local development environment.
+In this repository the code is given for the project in python and so it can be open in any python compiler.Use a local development environment OR code can be access with GitHub Dev OR code can be access with Google CoLab by Repository Clone.
